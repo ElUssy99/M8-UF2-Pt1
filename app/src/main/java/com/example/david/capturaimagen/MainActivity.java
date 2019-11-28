@@ -1,4 +1,4 @@
-package com.example.tnb_20.capturaimagen;
+package com.example.david.capturaimagen;
 
 import android.content.Intent;
 import android.graphics.Bitmap;
